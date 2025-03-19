@@ -1,0 +1,15 @@
+.frienditem {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}
