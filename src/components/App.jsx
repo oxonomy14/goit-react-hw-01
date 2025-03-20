@@ -1,11 +1,11 @@
 import { useState } from "react";
 import reactLogo from "../assets/react.svg";
-
 import "./App.css";
-import Profile from "./Profile/Profile";
-import userData from "../userData.json";
-import friends from "../friends.json";
+
+import userData from "../assets/userData.json";
+import friends from "../assets/friends.json";
 import transactions from "./transactions.json";
+import Profile from "./Profile/Profile";
 import FriendList from "./FriendList/FriendList";
 import TransactionHistory from "./TransactionHistory/TransactionHistory";
 
